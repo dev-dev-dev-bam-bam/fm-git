@@ -1,0 +1,1 @@
+This is a mock site I am developing for a local glassblowing artist in attempt to further my web development skills. This was a quick mockup and does not yet include php or advanced javascript components yet. 
